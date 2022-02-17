@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <ArrayOfKupac xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Kupac>
     <Email>jelena@gmail.com</Email>
@@ -18,6 +18,16 @@
     <Prezime>Smith</Prezime>
     <Datum_rodjenja>1888-12-30T00:00:00</Datum_rodjenja>
     <Telefon>011293847</Telefon>
+    <Pol>Muski</Pol>
+  </Kupac>
+  <Kupac>
+    <Email>asd@gmail.com</Email>
+    <Lozinka>asdasd</Lozinka>
+    <Id_kupca>1908726480</Id_kupca>
+    <Ime>asd</Ime>
+    <Prezime>asd</Prezime>
+    <Datum_rodjenja>1992-01-01T00:00:00</Datum_rodjenja>
+    <Telefon>062258852</Telefon>
     <Pol>Muski</Pol>
   </Kupac>
 </ArrayOfKupac>
